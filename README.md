@@ -1,4 +1,4 @@
-SOUL (DUB)
+SOUL(DUB)
 teste:"https://filmes15movie.files.wordpress.com/2020/12/soul-dublado.mp4:"
 ://filmes14movie.files.wordpress.com/2020/12/3"filmes14movie.files.wordpress.com/2020/12/3", LEGO STAR WARS - ESPECIAL DE NATAL (DUB)
 teste:"https://filmes14movie.files.wordpress.com/2020/12/lego-star-wars-especial-de-natal.mp4:"
