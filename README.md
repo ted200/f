@@ -28,13 +28,13 @@
 ":/2/o-que-ficou-para-tras-dub.mp4:"
 https://filme1movie.files.wordpress.com/2020/09/diabo/22/diabo.O DIABO DE CADA DIA (DUB)
 ":https://filme1movie.files.wordpress.com/2020/09/o.diabo_.de_.cada_.dia_.2020.dub_.mp4:"
-https://is3-/Video113/v4/d7/7d/01/d77d0101-1ed4-62d4-6614-24488c5a1215/source/600x600bb/3/invisivel.O HOMEM INVISÍVEL (DUB)
+3-/Video113/v4/d7/7d/01/d77d0101-1ed4-62d4-6614-24488c5a1215/source/600x600bb/3/invisivel.O HOMEM INVISÍVEL (DUB)
 ":https://acao3data.files.wordpress.com/2020/06/o.homem_.invisivel.2020.720p.dublado.mp4:"
 /1/facas_segredos/9/efes.ENTRE FACAS E SEGREDOS (DUB)
 ":https://zaazart.files.wordpress.com/2020/02/entrefacasesegredosdub-baixo.mp4:"
-https://is2-/v4/78/2e/32/782e329d-97d1-9cc0-da47-e641a7c1f0b1/source/600x600bb/7/grito.O GRITO
+2-/v4/78/2e/32/782e329d-97d1-9cc0-da47-e641a7c1f0b1/source/600x600bb/7/grito.O GRITO
 ":https://acao4data.files.wordpress.com/2020/06/ogritoodub-baixo.mp4:"
-https://is3-/v4/28/99/a6/2899a6cc-7f91-609b-dcb2-602aa5d8f36e/pr_source.lsr/600x600bb." backgroundhttps://is3-/v4/28/99/a6/2899a6cc-7f91-609b-dcb2-602aa5d8f36e/pr_source.lsr/600x600bb.OS ÓRFÃOS
+3-/v4/28/99/a6/2899a6cc-7f91-609b-dcb2-602aa5d8f36e/pr_source.lsr/600x600bb." background3-/v4/28/99/a6/2899a6cc-7f91-609b-dcb2-602aa5d8f36e/pr_source.lsr/600x600bb.OS ÓRFÃOS
 ":https://acao4data.files.wordpress.com/2020/06/osorfaosdub-baixo.mp4:"
 /22/20201221_182518/7/dr-sono.DOUTOR SONO (DUB)
 ":https://cinemaeslancamentosmovie.files.wordpress.com/2020/01/doutor.sono_.2020.720p.web-dl.6ch.x264.dublado.mp4:"
@@ -42,27 +42,27 @@ https://is3-/v4/28/99/a6/2899a6cc-7f91-609b-dcb2-602aa5d8f36e/pr_source.lsr/600x
 ":https://newfilmesmovie.files.wordpress.com/2020/03/o.farol_.2019.720p.bluray.6ch.x264.dublado-lapumia.mp4:"
 /1/20200603_185712-1/22/farol.O FAROL (LEG)
 ":https://filmeslegendadosbrasil.files.wordpress.com/2020/01/thelighthouse-baixo.mp4:"
-https://is1-/Video113/v4/67/d3/0f/67d30ff5-6fb1-f240-1ad2-70ead0121083/source/600x600bb.MIDSOMMAR (DUB)
+1-/Video113/v4/67/d3/0f/67d30ff5-6fb1-f240-1ad2-70ead0121083/source/600x600bb.MIDSOMMAR (DUB)
 ":https://ia803006.us.archive.org/29/items/jekwjrwjdkdwkd/OMALNESPERADUB-BAIXO.mp4:"
-https://is1-/Video113/v4/fc/11/7c/fc117c30-4d84-fe7c-1d7e-207fedd61847/source/600x600bb/2/assustadora.HISTÓRIAS ASSUSTADORAS PARA CONTAR NO ESCURO
+1-/Video113/v4/fc/11/7c/fc117c30-4d84-fe7c-1d7e-207fedd61847/source/600x600bb/2/assustadora.HISTÓRIAS ASSUSTADORAS PARA CONTAR NO ESCURO
 ":https://filme4movie.files.wordpress.com/2020/10/historias-assustadoras-no-escuro-dublado.mp4:"
 /1/20200603_185442/6/brinquedo-assassino.BRINQUEDO ASSASSINO (DUB)
 ":https://si7e4.files.wordpress.com/2020/09/brinquedo.assassino.2019.dub_.mp4:"
 /22/forca-1/22/forca-1.A FORCA
 ":https://filme8movie.files.wordpress.com/2020/10/a-forca-2015-dub.mp4:"
-https://is4-/Video113/v4/6a/5b/eb/6a5beba8-b268-aa6b-b761-3e4ea68e9483/source/600x600bb/22/forca-2.A FORCA 2
+4-/Video113/v4/6a/5b/eb/6a5beba8-b268-aa6b-b761-3e4ea68e9483/source/600x600bb/22/forca-2.A FORCA 2
 ":https://video.wixstatic.com/video/f42b6c_6d1da424a6da4f2f91226de62fc0836e/480p/mp4:"/file.mp4:"
-https://is5-/v4/a3/88/64/a38864c7-9167-9801-86f6-4d5a9d4ab73d/source/600x600bb.BRIGHTBURN - FILHO DAS TREVAS (DUB)
+5-/v4/a3/88/64/a38864c7-9167-9801-86f6-4d5a9d4ab73d/source/600x600bb.BRIGHTBURN - FILHO DAS TREVAS (DUB)
 ":https://fillmeze.files.wordpress.com/2019/08/brightburn.filho_.das_.trevas.2019.720p.web-dl.x264.dublado-www.bludv_.tv_.mp4:"
 /1/chorona/9/chorona1.A MALDIÇÃO DA CHORONA (DUB)
 ":https://thefilmes6.files.wordpress.com/2019/07/a.maldic3a7c3a3o.da_.chorona.2019.720p.web-dl.x264.dublado-www.bludv_.tv_.mp4:"
 /2/20210207_014645/9/cs1.CASAMENTO SANGRENTO
 ":https://top1data.files.wordpress.com/2021/02/casamento-sangrento-2019-dub.mp4:"
-https://is5-/v4/f3/4d/3f/f34d3f67-9cff-70f4-e00e-52164e81cfc0/source/600x600bb/9/cm-w.CEMITÉRIO MALDITO (2019 - DUB)
+5-/v4/f3/4d/3f/f34d3f67-9cff-70f4-e00e-52164e81cfc0/source/600x600bb/9/cm-w.CEMITÉRIO MALDITO (2019 - DUB)
 ":https://j54home.files.wordpress.com/2020/09/cemiterio.maldito.2019.dub_.mp4:"
 /1/corra/7/corra.CORRA!
 ":https://filmes1video.files.wordpress.com/2020/03/corradub-baixo.mp4:"
-https://is5-/Video113/v4/4e/45/9f/4e459f8c-5a66-2178-d56e-9b85efc0afe0/source/600x600bb/22/20201221_182035.NÓS (DUB)
+5-/Video113/v4/4e/45/9f/4e459f8c-5a66-2178-d56e-9b85efc0afe0/source/600x600bb/22/20201221_182035.NÓS (DUB)
 ":https://fillmes2.files.wordpress.com/2019/07/nos.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4:"
 /22/20210124_122151/22/20210124_122151.BONECO DO MAL 1
 ":https://tenetdata.files.wordpress.com/2021/01/boneco-do-mal-2016-dub.mp4:"
@@ -87,13 +87,13 @@ https://r350home.files.wordpress.com/2020/04/20200410_182512/6/idm2.INVOCAÇÃO 
 ":https://a783home.files.wordpress.com/2020/03/annabelle2dub-baixo.mp4:"
 /1/annabelle-3/2/20210204_123229.ANNABELLE 3: DE VOLTA PARA CASA
 ":https://aassistir.files.wordpress.com/2019/11/annabelle3dub.mp4:"
-https://is5-/Video113/v4/a7/aa/4e/a7aa4ee7-691a-ec0c-55a7-b01513a74045/pr_source./600x600bb/2/20210204_122537.A FREIRA
+5-/Video113/v4/a7/aa/4e/a7aa4ee7-691a-ec0c-55a7-b01513a74045/pr_source./600x600bb/2/20210204_122537.A FREIRA
 ":https://k04home.files.wordpress.com/2020/07/freiradubbb-baixo.mp4:"
 /22/20201218_140329/7/entidade.A ENTIDADE
 ":https://filme8movie.files.wordpress.com/2020/09/a-entidade.mp4:"
 /22/20201218_140139/22/20201218_140200.OUIJA - O JOGO DOS ESPÍRITOS
 ":https://fillmes5.files.wordpress.com/2020/10/ouija-jogo-dos-espiritos.mp4:"
-https://is3-/Video111/v4/af/86/74/af8674bd-79fc-29cd-ae32-32f109522470/source/600x600bb." backgroundhttps://chefaodata.files.wordpress.com/2021/01/ouija.OUIJA - ORIGEM DO MAL
+3-/Video111/v4/af/86/74/af8674bd-79fc-29cd-ae32-32f109522470/source/600x600bb." backgroundhttps://chefaodata.files.wordpress.com/2021/01/ouija.OUIJA - ORIGEM DO MAL
 ":https://chefaodata.files.wordpress.com/2021/01/ouija-origem-do-mal-720p-dublado.mp4:"
 https://filmes15movie.files.wordpress.com/2020/12/p-1/7/panico.PÂNICO 1
 ":https://filmes15movie.files.wordpress.com/2020/12/panico-1.mp4:"
@@ -153,13 +153,13 @@ https://thechocolate8.files.wordpress.com/2020/12/images-_2_/3/20210304_001742.E
 ":https://top1data.files.wordpress.com/2021/02/alien-1-1979-dub.mp4:"
 /9/signs/9/sinais1.SINAIS
 ":https://mnt1plus.files.wordpress.com/2021/09/sinais-dub.mp4:"
-https://is5-/Video/v4/13/3c/b8/133cb8c1-3e13-6a21-93ed-6c7848da12b4/source/600x600bb/22/20201218_140427.O SEXTO SENTIDO
+5-/Video/v4/13/3c/b8/133cb8c1-3e13-6a21-93ed-6c7848da12b4/source/600x600bb/22/20201218_140427.O SEXTO SENTIDO
 ":https://p44home.files.wordpress.com/2020/04/o-sexto-sentido.mp4:"
-https://is2-/Video/v4/eb/87/6b/eb876b09-a9f9-e5f0-b232-8fba1c05dfca/source/600x600bb/7/vista.A VISITA
+2-/Video/v4/eb/87/6b/eb876b09-a9f9-e5f0-b232-8fba1c05dfca/source/600x600bb/7/vista.A VISITA
 ":https://filmes13movie.files.wordpress.com/2020/11/a-visita-2015-dublado.mp4:"
 /2/fechado/2/fechado.CORPO FECHADO
 http://144.217.77.29/0912/Corpo%20Fechado%20(2000)%201080p%20Dublado%20-%20Alan_680.mp4:"
-https://is1-/Video51/v4/60/22/5e/60225e29-b132-54de-94cc-a0d9eb9b48b1/source/600x600bb/2/fragmentado.FRAGMENTADO
+1-/Video51/v4/60/22/5e/60225e29-b132-54de-94cc-a0d9eb9b48b1/source/600x600bb/2/fragmentado.FRAGMENTADO
 ":https://filme10movie.files.wordpress.com/2020/10/fragmentado-2017-dub.mp4:"
 https://r350home.files.wordpress.com/2020/04/20200410_232949/2/vidro.VIDRO
 ":https://filmesbr24.files.wordpress.com/2019/05/v1dr0.2019.720p.dublado.mp4:"
@@ -177,7 +177,7 @@ https://r350home.files.wordpress.com/2020/04/20200410_232949/2/vidro.VIDRO
 ":https://themzer.files.wordpress.com/2021/06/hush-a-morte-ouve-dub.mp4:"
 /5/malp/5/malw.À ESPREITA DO MAL
 ":https://jsjdhdf.files.wordpress.com/2021/05/a-espreita-do-mal-dub.mp4:"
-https://is4-/Video1/v4/22/3e/f2/223ef2b7-a5fb-619e-ea70-8308a62eea4b/source/600x600bb/2/inferno.ASSIM NA TERRA COMO NO INFERNO
+4-/Video1/v4/22/3e/f2/223ef2b7-a5fb-619e-ea70-8308a62eea4b/source/600x600bb/2/inferno.ASSIM NA TERRA COMO NO INFERNO
 ":https://filmes13movie.files.wordpress.com/2020/11/assim-na-terra-como-no-inferno.avi:"
 /2/20210207_014604/2/20210207_014604.A CASA DE CERA
 ":https://top1data.files.wordpress.com/2021/02/a-casa-de-cera-dublado.mp4:"
@@ -191,19 +191,19 @@ https://is4-/Video1/v4/22/3e/f2/223ef2b7-a5fb-619e-ea70-8308a62eea4b/source/600x
 ":https://thejsjsg.files.wordpress.com/2021/04/rec.mp4:"
 /1/iluminado/22/iluminado.",O ILUMINADO
 ":https://4cinema7.files.wordpress.com/2020/02/o-iluminado.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
-https://is4-/Video/v4/f1/9b/ca/f19bcab3-9714-7f98-6a3f-f76d2faa5b15/source/600x600bb/3/20210309_135514.O EXORCISTA
+4-/Video/v4/f1/9b/ca/f19bcab3-9714-7f98-6a3f-f76d2faa5b15/source/600x600bb/3/20210309_135514.O EXORCISTA
 ":https://filmes7movie.files.wordpress.com/2020/09/o-exorcista-dub.mp4:"
 /3/20210309_135105/3/20210309_135027.ATIVIDADE PARANORMAL 1
 ":https://top13u.files.wordpress.com/2021/03/atividade-paranormal-1-dub.mp4:"
-https://is4-/Video71/v4/71/77/27/71772782-3b04-651a-e17f-cc7fba15f5c2/source/600x600bb." backgroundhttps://tofdata.files.wordpress.com/2021/01/20210113_151449.",A BRUXA DE BLAIR
+4-/Video71/v4/71/77/27/71772782-3b04-651a-e17f-cc7fba15f5c2/source/600x600bb." backgroundhttps://tofdata.files.wordpress.com/2021/01/20210113_151449.",A BRUXA DE BLAIR
 ":https://ubaiart.files.wordpress.com/2020/04/a-bruxa-de-blair-720p-filmes-beta.mp4:"
-https://is5-/Video49/v4/53/a9/bf/53a9bfbc-5c04-c88d-53d1-6f2f9f5d659d/source/600x600bb/22/20201218_141603.",A BRUXA
+5-/Video49/v4/53/a9/bf/53a9bfbc-5c04-c88d-53d1-6f2f9f5d659d/source/600x600bb/22/20201218_141603.",A BRUXA
 ":https://4827data.files.wordpress.com/2020/01/a-bruxa-2016-5.1-ch-dublado-720p-by-luanharper.mp4:"
-https://is3-/Video118/v4/46/ce/41/46ce4199-e10f-61a7-02b3-e3bfb4814e24/source/600x600bb.ASSSASSINATO NO EXPRESSO ORIENTE
+3-/Video118/v4/46/ce/41/46ce4199-e10f-61a7-02b3-e3bfb4814e24/source/600x600bb.ASSSASSINATO NO EXPRESSO ORIENTE
 ":https://infantil10data.files.wordpress.com/2020/07/assassinato.no_.expresso.do_.oriente.mp4:"
-https://is3-/v4/67/0b/f9/670bf9b5-4c3a-2ddf-d393-8cc0df7fcda4/pr_source.lsr/600x600bb/2/20210204_130017.SE7EN - OS SETE CRIMES CAPITAIS
+3-/v4/67/0b/f9/670bf9b5-4c3a-2ddf-d393-8cc0df7fcda4/pr_source.lsr/600x600bb/2/20210204_130017.SE7EN - OS SETE CRIMES CAPITAIS
 ":https://e99home.files.wordpress.com/2020/06/se7en-os-sete-crimes-capitais.mp4:"
-https://is5-/Video128/v4/66/28/c0/6628c02b-8996-478d-6387-361291617482/source/600x600bb/6/ls-1.UM LUGAR SILENCIOSO (LEG)
+5-/Video128/v4/66/28/c0/6628c02b-8996-478d-6387-361291617482/source/600x600bb/6/ls-1.UM LUGAR SILENCIOSO (LEG)
 ":https://3st02.files.wordpress.com/2021/06/um-lugar-silencioso-1-leg.mp4:"
 https://r350home.files.wordpress.com/2020/04/20200415_001147/22/buscando.BUSCANDO
 ":https://filme11movie.files.wordpress.com/2020/11/buscando-dublado.mp4:"
@@ -213,13 +213,13 @@ https://tofdata.files.wordpress.com/2021/01/20210113_151134." backgroundhttps://
 http://webtvcde.com/Filmes/Dublados/Verdade.ou.Desafio.mkv
 httpsAS FITAS DE POUGHKEEPSIE
 ":https://ia601502.us.archive.org/7/items/kgpyswibxohohdkb/As.Fitas.de.Poughkeepsie.2007.ia.mp4:"
-https://is2-/Video118/v4/33/b0/fb/33b0fbae-eca1-6bec-d384-e2a5c99a993f/source/600x600bb." backgroundhttps://tofdata.files.wordpress.com/2021/01/20210113_151033.A AUTOPSIA
+2-/Video118/v4/33/b0/fb/33b0fbae-eca1-6bec-d384-e2a5c99a993f/source/600x600bb." backgroundhttps://tofdata.files.wordpress.com/2021/01/20210113_151033.A AUTOPSIA
 ":https://thewitcherleg.files.wordpress.com/2019/12/a.autc3b3psia.2017.720p.bluray.x264.dublado-www.bludv_.com_.mp4:"
-https://is5-/Video/v4/db/9b/ef/db9bef3e-2aec-09ba-4ca9-bdc9bcf2d44b/source/600x600bb/22/20201218_141804.CLOVERFIELD: MONSTRO
+5-/Video/v4/db/9b/ef/db9bef3e-2aec-09ba-4ca9-bdc9bcf2d44b/source/600x600bb/22/20201218_141804.CLOVERFIELD: MONSTRO
 ":https://j299home.files.wordpress.com/2020/05/cloverfielddub-baixo.mp4:"
 /1/20200603_182955/7/poltergeist.POLTERGEIST - O FENÔMENO
 ":https://f485home.files.wordpress.com/2020/04/poltergeist-o-fenc3b4meno-versc3a3o-estendida-2015-5.1-ch-dublado-720p-by-luanharper.mp4:"
-https://is3-/Video128/v4/40/4d/3c/404d3c66-d1cd-9fdb-72d1-4995f7c05a9e/source/600x600bb." backgroundhttps://tofdata.files.wordpress.com/2021/01/20210113_150848.HEREDITARIO
+3-/Video128/v4/40/4d/3c/404d3c66-d1cd-9fdb-72d1-4995f7c05a9e/source/600x600bb." backgroundhttps://tofdata.files.wordpress.com/2021/01/20210113_150848.HEREDITARIO
 ":https://filmes7movie.files.wordpress.com/2020/10/hereditario-2018-dub.mp4:"
 https://cdn.culturagenial.com/imagens/donnie-darko-cke.DONNIE DARKO
 ":https://fracoscode.files.wordpress.com/2020/03/donniedarkodub-baixo.mp4:"
@@ -227,7 +227,7 @@ https://cdn.culturagenial.com/imagens/donnie-darko-cke.DONNIE DARKO
 ":https://filme1movie.files.wordpress.com/2020/07/olhos-famintos-dublado-series-zoiudo.mp4:"
 https://www.pontofrio-imagens.com.br/dvdsebluray/FilmeseSeriados/BluRaydeTerror/413213/4699448/DVD-Olhos-Famintos-2-413213.OLHOS FAMINTOS 2
 http://190.2.133.215/TERROR/Olhos.Famintos.2.mp4:"
-https://is4-/Video115/v4/3b/1f/61/3b1f6147-31eb-9f7b-57d7-1abf182ff60e/source/600x600bb.OLHOS FAMINTOS 3
+4-/Video115/v4/3b/1f/61/3b1f6147-31eb-9f7b-57d7-1abf182ff60e/source/600x600bb.OLHOS FAMINTOS 3
 http://webtvcde.com/Filmes/Dublados/Olhos.Famintos.3.mkv
 /7/saw/7/saw.JOGOS MORTAIS: JIGSAW
 ":https://filme10movie.files.wordpress.com/2020/10/jigsaw-2018-dub.mp4:"
