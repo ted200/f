@@ -70,16 +70,15 @@ https://filme1movie.files.wordpress.com/2020/09/diabo/22/diabo.O DIABO DE CADA D
 ":https://top1data.files.wordpress.com/2021/02/boneco-do-mal-2-dublado.mp4:"
 /2/20210207_112123/2/20210207_110324.HALLOWEEN (1978)
 ":https://fatewinxcode.files.wordpress.com/2021/02/halloween-1978-dub.mp4:"
-":https://fatewinxcode.files.wordpress.com/2021/01/brahmsdub.mp4:"
-https://r350home.files.wordpress.com/2020/04/20200415_001347/2/20210207_110421.HALLOWEEN (2019)
+/2020/04/20200415_001347/2/20210207_110421.HALLOWEEN (2019)
 ":https://acao2data.files.wordpress.com/2020/07/halloween.2019.720p.mp4:"
-https://r350home.files.wordpress.com/2020/04/20200410_190011/2/20210221_112515.IT - A COISA
+/2020/04/20200410_190011/2/20210221_112515.IT - A COISA
 ":https://movies01video.files.wordpress.com/2020/03/it-dub-480p.mp4:"
-https://r350home.files.wordpress.com/2020/04/20200410_190212/2/it-2.IT - CAPÍTULO DOIS
+/2020/04/20200410_190212/2/it-2.IT - CAPÍTULO DOIS
 ":https://si7e4.files.wordpress.com/2020/09/it.capitulo.dois_.2019.dub_.mp4:"
-https://r350home.files.wordpress.com/2020/04/20200410_182249/6/idm1.INVOCAÇÃO DO MAL 1
+/2020/04/20200410_182249/6/idm1.INVOCAÇÃO DO MAL 1
 ":https://top2data.files.wordpress.com/2021/02/invocacao-do-mal-1-dublado.mp4:"
-https://r350home.files.wordpress.com/2020/04/20200410_182512/6/idm2.INVOCAÇÃO DO MAL 2
+/2020/04/20200410_182512/6/idm2.INVOCAÇÃO DO MAL 2
 ":https://k68home.files.wordpress.com/2020/03/invocac3a7c3a3o-do-mal-2-2016-dublado-720p-by-luanharper-www.thepiratefilmes.com_.mp4:"
 /1/annabelle-1/6/annabelle1.",ANNABELLE
 ":https://bebobesponja.files.wordpress.com/2020/02/annabelle-2014-720p-dublado-alan_680.mp4:"
@@ -161,7 +160,7 @@ https://thechocolate8.files.wordpress.com/2020/12/images-_2_/3/20210304_001742.E
 http://144.217.77.29/0912/Corpo%20Fechado%20(2000)%201080p%20Dublado%20-%20Alan_680.mp4:"
 1-/Video51/v4/60/22/5e/60225e29-b132-54de-94cc-a0d9eb9b48b1/source/600x600bb/2/fragmentado.FRAGMENTADO
 ":https://filme10movie.files.wordpress.com/2020/10/fragmentado-2017-dub.mp4:"
-https://r350home.files.wordpress.com/2020/04/20200410_232949/2/vidro.VIDRO
+/2020/04/20200410_232949/2/vidro.VIDRO
 ":https://filmesbr24.files.wordpress.com/2019/05/v1dr0.2019.720p.dublado.mp4:"
 /2/fauno/2/faunoo.O LABIRINTO DO FAUNO
 ":https://top2data.files.wordpress.com/2021/02/o-labirinto-do-fauno-dublado.mp4:"
@@ -205,7 +204,7 @@ https://r350home.files.wordpress.com/2020/04/20200410_232949/2/vidro.VIDRO
 ":https://e99home.files.wordpress.com/2020/06/se7en-os-sete-crimes-capitais.mp4:"
 5-/Video128/v4/66/28/c0/6628c02b-8996-478d-6387-361291617482/source/600x600bb/6/ls-1.UM LUGAR SILENCIOSO (LEG)
 ":https://3st02.files.wordpress.com/2021/06/um-lugar-silencioso-1-leg.mp4:"
-https://r350home.files.wordpress.com/2020/04/20200415_001147/22/buscando.BUSCANDO
+/2020/04/20200415_001147/22/buscando.BUSCANDO
 ":https://filme11movie.files.wordpress.com/2020/11/buscando-dublado.mp4:"
 /22/20201221_181700/22/20201221_181700.SLENDER MAN
 ":https://filmes12movie.files.wordpress.com/2020/11/slendermandub.mp4:"
