@@ -1,22 +1,4 @@
-/3/cabras/cabras-1", CABRAS DA PESTE
-":https://zsjlonline.files.wordpress.com/2021/03/cabras-da-peste.mp4:"
-/22/20210124_135218/principe", UM PRÍNCIPE EM NOVA YORK 1
-":https://fatewinxcode.files.wordpress.com/2021/01/um-principe-em-nova-york-dublado.mp4:"
-/3/20210303_115804/1f89161371677658", UM PRÍNCIPE EM NOVA YORK 2
-":https://top12data.files.wordpress.com/2021/03/um-principe-em-nova-york-2-dub.mp4:"
-/HyoqaRShttt", TUDO BEM NO NATAL QUE VEM
-":https://thechocolate8.files.wordpress.com/2020/12/tudo.bem_.no_.natal_.que_.vem_.2020.mp4:"
-":https://filme4movie.files.wordpress.com/2020/10/borat-28/b2-1", BORAT: FITA DE CINEMA SEGUINTE 
-":https://mansaoblyart.files.wordpress.com/2020/10/boratfitadub.mp4:"
-":https://filme4movie.files.wordpress.com/2020/10/borat-28/b2-1", BORAT: FITA DE CINEMA SEGUINTE (LEG)
-":https://mansaoblyart.files.wordpress.com/2020/10/boratfita-leg.mp4:"
-/2/billted-12/billted-1",BILL E TED: UMA AVENTURA FANTÁSTICA
-":https://5163home.files.wordpress.com/2020/06/bill__ted1.mp4:"
-":https://is5-ssl.6/v4/16/2b/ad/162bad05-7066-8a6d-224a-9da871113e61/source/httt",BILL E TED: DOIS LOUCOS NO TEMPO
-":https://5163home.files.wordpress.com/2020/06/bill_e_ted2.mp4:"
-":https://is2-ssl.114/v4/f3/5e/80/f35e8083-18b5-933a-62fa-6cab52c776a2/source/":https://to4data.files.wordpress.com/2021/01/billted3", BILL E TED 3: ENCARE A MÚSICA 
-":https://to4data.files.wordpress.com/2021/01/bill-e-ted-3-dublado.mp4:"
-/1/jumanji22/j-1", JUMANJI: BEM-VINDO À SELVA
+JUMANJI: BEM-VINDO À SELVA
 ":https://infantil07art.files.wordpress.com/2020/06/jumanji2018dub-baixo.mp4:"
 /1/jumanji22/j-2",JUMANJI: PRÓXIMA FASE
 ":https://u13home.files.wordpress.com/2020/03/jumanji.proxima.fase_.2020.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
@@ -34,31 +16,31 @@
 ":https://mibdata.files.wordpress.com/2020/06/homensdep01dub-baixo.mp4:"
 -ssl./v4/10/33/38/10333827-d6ba-9d39-69e1-4cd503573012/source/2/mib2", MIB - HOMENS DE PRETO 2
 ":https://mibdata.files.wordpress.com/2020/06/homensdep02dub-baixo.mp4:"
-":https://is1-ssl./v4/23/15/56/23155688-5607-7be9-db6c-b6c7583efaa8/source/2/mib3", MIB - HOMENS DE PRETO 3
+-ssl./v4/23/15/56/23155688-5607-7be9-db6c-b6c7583efaa8/source/2/mib3", MIB - HOMENS DE PRETO 3
 ":https://mibdata.files.wordpress.com/2020/06/homensdep03dub-baixo.mp4:"
-":https://is3-ssl.123/v4/00/b8/47/00b84734-ef16-e219-26b4-f420c6e38007/source/httt", MIB - INTERNACIONAL
+-ssl.123/v4/00/b8/47/00b84734-ef16-e219-26b4-f420c6e38007/source/httt", MIB - INTERNACIONAL
 ":https://anovosfilmes.files.wordpress.com/2020/01/mibinternational-dub-480p.mp4:"
 /3/20210311_233951/20210311_233619", MR BEAN - O FILME
 ":https://sobdbd.files.wordpress.com/2021/03/mr-bean-o-filme-dub.mp4:"
 /3/20210311_234005/20210311_233643", AS FÉRIAS DE MR BEAN
 ":https://mymnvsh.files.wordpress.com/2021/03/as-ferias-do-mr-bean-dub.mp4:"
-":https://is1-ssl.113/v4/ff/6f/31/ff6f31b2-3e7e-006c-06eb-c1959ae3edd0/source/httt", CASAL IMPROVÁVEL
+-ssl.113/v4/ff/6f/31/ff6f31b2-3e7e-006c-06eb-c1959ae3edd0/source/httt", CASAL IMPROVÁVEL
 ":https://7pluslawlaw.files.wordpress.com/2020/06/casal.improvc3a1vel.2019.dub_.mp4:"
-":https://is2-ssl./v4/68/23/0a/68230a1e-fb1a-e535-a89f-fc31d8cd480d/source/2/3patetas", OS TRÊS PATETAS
+-ssl./v4/68/23/0a/68230a1e-fb1a-e535-a89f-fc31d8cd480d/source/2/3patetas", OS TRÊS PATETAS
 ":https://movies02onlinemovie.files.wordpress.com/2020/03/os-trc3aas-patetas.dub_.baixarseriesmp4:".com_.mp4:"
 /4/h4/h", CLUBE DOS CINCO
 ":https://9jej.files.wordpress.com/2021/04/clube-dos-5-dublado.mp4:"
-":https://is2-ssl./v4/9f/1a/52/9f1a52b7-6ea8-6c5e-fdf6-7623a0a9f37c/source/2/builler", CURTINDO A VIDA ADOIDADO
+-ssl./v4/9f/1a/52/9f1a52b7-6ea8-6c5e-fdf6-7623a0a9f37c/source/2/builler", CURTINDO A VIDA ADOIDADO
 ":https://d124home.files.wordpress.com/2020/07/curtindo.a.vida_.adoidado.1986.dub_.avi
 /9/utdp9/1tdp", UM TIRA DA PESADA
 ":https://definote3.files.wordpress.com/2021/09/tira-da-pesada-1.mp4:"
-":https://is3-ssl.60/v4/29/ea/43/29ea4368-843e-4342-d61c-8e7f2b94cfcb/source/2/aviao", APERTEM OS CINTOS O PILOTO SUMIU
+-ssl.60/v4/29/ea/43/29ea4368-843e-4342-d61c-8e7f2b94cfcb/source/2/aviao", APERTEM OS CINTOS O PILOTO SUMIU
 ":https://d124home.files.wordpress.com/2020/07/apertem-os-cintos-o-piloto-sumiu.avi
-":https://is5-ssl.3/v4/85/77/7d/85777dcb-d6dd-64a2-a964-6701df84c1c5/source/2/corra", CORRA QUE A POLÍCIA VEM AÍ
+-ssl.3/v4/85/77/7d/85777dcb-d6dd-64a2-a964-6701df84c1c5/source/2/corra", CORRA QUE A POLÍCIA VEM AÍ
 ":https://d124home.files.wordpress.com/2020/07/corra-que-a-policia-vem-ai-1.mp4:"
 http://is5-ssl.118/v4/4c/a5/48/4ca54846-c568-08dd-4102-416a1cf23782/source/4/auto", O AUTO DA COMPADECIDA
 http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4:"
-":https://is1-ssl./v4/d7/fd/79/d7fd796a-8d41-def9-49dc-c92db755696e/source/4/paul", PAUL: O ALIEN FUGITIVO
+-ssl./v4/d7/fd/79/d7fd796a-8d41-def9-49dc-c92db755696e/source/4/paul", PAUL: O ALIEN FUGITIVO
 ":https://8iogame.files.wordpress.com/2020/04/paul-o-alien-fugitivo-by-jefepsb-wolverdonfilmes.com_.mp4:"
 /4/14/je1", JOHNNY ENGLISH
 ":https://ks4ex.files.wordpress.com/2021/04/johnny-english-1-dub.mp4:"
@@ -68,11 +50,11 @@ http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4:"
 ":https://filmes12movie.files.wordpress.com/2020/11/johnny-english-3-dublado.mp4:"
 /4/arthttt", O TERNO DE 2 BILHÕES DE DOLARES
 ":https://vebetr.files.wordpress.com/2021/03/terno-de-2-bilhoes-dub.mp4:"
-":https://is2-ssl./v4/ee/43/43/ee4343aa-68de-2632-6297-6f3e78ec491b/source/22/ted-1",TED
+-ssl./v4/ee/43/43/ee4343aa-68de-2632-6297-6f3e78ec491b/source/22/ted-1",TED
 ":https://11935home.files.wordpress.com/2020/05/ted-dub.mp4:"
 -ssl.7/v4/61/66/ee/6166ee87-d120-b422-7a05-56d1712b4b66/source/22/ted-2",TED 2
 ":https://11935home.files.wordpress.com/2020/05/ted2-dub.mp4:"
-":https://is3-ssl./v4/e5/1d/9d/e51d9db9-022b-244d-f359-552e14ac6241/source/httt",UMA NOITE NO MUSEU
+-ssl./v4/e5/1d/9d/e51d9db9-022b-244d-f359-552e14ac6241/source/httt",UMA NOITE NO MUSEU
 ":https://11935home.files.wordpress.com/2020/05/16120.mp4:"
 ":https://i.ytimg.com/vi/mnXsiwWbjPc/maxresdefaulthttt",UM ESPIÃO E MEIO
 ":https://top14p.files.wordpress.com/2021/03/um-espiao-e-meio-dub.mp4:"
