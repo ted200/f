@@ -1,110 +1,92 @@
-":/4/":/4/", MEU PAI (LEG)
-":https://mrdjjs.files.wordpress.com/2021/04/meu-pai-legendado.mp4:"
-":/3/p":/3/cherry", CHERRY: INOCÊNCIA PERDIDA (LEG)
-":https://sobdbd.files.wordpress.com/2021/03/cherry-legendado.mp4:"
-":/3/p":/3/cherry", CHERRY: INOCÊNCIA PERDIDA (DUB)
-":https://vebetr.files.wordpress.com/2021/03/cherry-dublado.mp4:"
-":/3/judas":/3/judas-1", JUDAS E O MESSIAS NEGRO (LEG)
-":https://top9u.files.wordpress.com/2021/03/judas-e-o-messias-negro-leg.mp4:"
-":/2/20210222_234923":/2/nomad", NOMADLAND (LEG)
-":https://top5dotsciencedotblog.files.wordpress.com/2021/02/nomadland-2020-leg.mp4:"
-":/2/another":/2/another", ANOTHER ROUND (LEG)
-":https://top6data.files.wordpress.com/2021/02/another-round-2020-leg.mp4:"
-":/2/20210208_225801":/2/20210208_224427", MALCOLM E MARIE (LEG)
-":https://top3data.files.wordpress.com/2021/02/malcolm-e-marie-legendado.mp4:"
-":https://tofdata.files.wordpress.com/2021/01/bb":https://tofdata.files.wordpress.com/2021/01/chad", A VOZ SUPREMA DO BLUES (DUB)
-":https://chefaodata.files.wordpress.com/2021/01/6706881750.2020.mp4:"
-":https://tenetdata.files.wordpress.com/2020/12/som":https://tenetdata.files.wordpress.com/2020/12/som", O SOM DO SILÊNCIO (LEG)
-":https://tenetdata.files.wordpress.com/2020/12/sound-of-metal-2020-leg.mp4:"
-":https://mankdata.files.wordpress.com/2020/12/mank-1":https://mankdata.files.wordpress.com/2020/12/mank-2", MANK (LEG)
-":https://mankdata.files.wordpress.com/2020/12/mank-2020-leg.mp4:"
-":/2/20210204_124440":/2/20210204_124440", ERA UMA VEZ UM SONHO (DUB)
-":https://mansaoblyart.files.wordpress.com/2020/11/era-um-vez-um-sonho-dublado.mp4:"
-":https://filme4movie.files.wordpress.com/2020/10/7-chicago":/2/20210204_124331", OS 7 DE CHICAGO (LEG)
-":https://filme4movie.files.wordpress.com/2020/10/os.7.de_.chicago.mp4:".leg_.baixarseriesmp4:".org_.mp4:"
-":/2/20210204_123415":/2/20210204_123415", UM LINDO DIA NA VIZINHANÇA (DUB)
-":https://thefilmes3.files.wordpress.com/2020/03/um.lindo_.dia_.na_.vizinhanca.2020.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
-":/2/20210204_123415":/2/20210204_123415", UM LINDO DIA NA VIZINHANÇA (LEG)
-":https://zaazart.files.wordpress.com/2020/02/um.lindo_.dia_.na_.vizinhanca.2020.mp4:".leg_.baixarseriesmp4:".org_.mp4:"
-":https://j54home.files.wordpress.com/2020/09/uncut":/2/20210204_133250", JOIAS BRUTAS (LEG)
-":https://4cinema7.files.wordpress.com/2020/02/uncutgemsleghd-baixo.mp4:"
-":https://j54home.files.wordpress.com/2020/09/uncut":/2/20210204_133250", JOIAS BRUTAS (DUB)
-":https://4cinema7.files.wordpress.com/2020/02/joiasbrutasdub-baixo.mp4:"
-comv4/d5/a5/ee/d5a5ee83-608a-3935-e8bf-d845b4c8d4be/.lsr/httt", FORD VS FERRARI (DUB)
-":https://4cinema7.files.wordpress.com/2020/02/ford.vs_.ferrari.2019.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
-":/1/20200528_115523":/2/20210204_123955", CORINGA (DUB)
-":https://videoesonline.files.wordpress.com/2019/12/coringa.2019.720p.web-dl.x264.dublado-www.bludv_.tv_.mp4:"
-":/1/20200528_115523":/2/20210204_123955", CORINGA (LEG)
-":https://filmeslegendadosbrasil.files.wordpress.com/2020/01/coringa.2019.bluray.mp4:".leg_.baixarseriesmp4:".org_.mp4:"
-":/22/casamento":/22/casamento", HISTÓRIA DE UM CASAMENTO (LEG)
-":https://filmeslegendadosbrasil.files.wordpress.com/2019/12/historiadeumcasamentoleg-baixo.mp4:"
-comv4/89/34/1f/89341f35-d637-7047-0eb5-6580bce75b8e/source/":/22/bacurau", BACURAU
-":https://ia803006.us.archive.org/29/items/jekwjrwjdkdwkd/BACURAU-BAIXO.mp4:"
-/2020/04/20200410_193506":/22/parasita", PARASITA (LEG)
-":https://newfilmesmovie.files.wordpress.com/2020/02/parasite.2019.mp4:".leg_.baixarseriesmp4:".org_1.mp4:"
-/the-irishman-5da91dfa3a21e":/2/20210204_124200", O IRLANDÊS (LEG)
-":https://amocinemaclub.files.wordpress.com/2019/11/oirlandes2019leg.mp4:"
-":httphttt", EL CAMINO - A BREAKING BAD MOVIE (DUB)
-":https://j54home.files.wordpress.com/2020/09/el.camino.breaking.bad_.dub_.mp4:"
-":/1/rocket":/22/rocketman", ROCKETMAN (DUB)
-":https://filmesdramamovie.files.wordpress.com/2020/06/rocketmandubhd-baixo.mp4:"
-":httpshttt",O ARTISTA DO DESASTRE
-":https://m095home.files.wordpress.com/2020/03/oartistadodesastre-baixo.mp4:"
-":https://is3com///Video118/v4/7a/a2/1c/7aa21cdb-3f27-7ad7-d53a-1b2280158922/source/":/22/klan", INFILTRADO NA KLAN
-":https://novelachata.files.wordpress.com/2019/12/infiltrado.na_.klan_.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4:"
-":https://is5com///Video124/v4/e9/f5/04/e9f504b0-beb2-97c8-4753-c29c891b6ccc/source/":/22/green", GREEN BOOK - O GUIA
-":http://samurai05.iapetus.ferosting.com/Lancamentos/Green.Book.O.Guia.2019.mp4:"
-":https://is3comv4/85/a4/17/85a41788-2799-5c89-a89b-e2b539a0ceaf/source/":/22/vice", VICE (DUB)
-":https://filme10movie.files.wordpress.com/2020/10/vice-2019-dub.mp4:"
-/2020/04/20200410_191619":/22/bohemia",BOHEMIAN RHAPSODY
-":https://filmesdramamovie.files.wordpress.com/2020/06/bohemiandubhd-baixo.mp4:"
-":https://i.imgur.com/h6avxeEhttt",NASCE UMA ESTRELA
-":https://r22home.files.wordpress.com/2020/03/nasceumaestreladub-baixo.mp4:"
-":https://is5com///Video125/v4/f3/c5/ce/f3c5ce84-9ad4-2c2a-c124-cdb4a221ede7/source/":/22/bom-comportamento", BOM COMPORTAMENTO (LEG)
-":https://2020filme.files.wordpress.com/2020/01/bom.comportamento.2018.mp4:".leg_.baixarseriesmp4:".org_.mp4:"
-":/4/arthttt", ME CHAME PELO SEU NOME
-":https://top3data.files.wordpress.com/2021/02/me-chame-pelo-seu-nome-dublado.mp4:"
-":/2/20210204_125635":/2/20210204_125635", EXTRAORDINÁRIO
-":https://afilmes9movie.files.wordpress.com/2020/09/extraordinario-dub.mp4:"
-":/9/vdv":/9/gdv", BOM DIA VIETNÃ
-":https://7tf2.files.wordpress.com/2021/09/bom-dia-vietna.mp4:"
-htthttt", UM LIMITE ENTRE NÓS
-":https://d347home.files.wordpress.com/2020/07/umlimiteentrenos.mp4:"
-htthttt", O DIA DO TREINAMENTO
-":https://infantil09data.files.wordpress.com/2020/07/dia-de-treinamento-2001.mp4:"
-":/7/3anuncios":/7/3anuncios", TRÊS ANÚNCIOS PARA UM CRIME
-":https://278edu.files.wordpress.com/2021/07/3-anuncios-para-um-crime-dub.mp4:"
-":https://is5com///Video2/v4/19/47/f8/1947f84c-ea0d-e81a-1212-f9f9a14fe275/source/":/2/20210204_125654", CLUBE DE COMPRAS DALLAS
-":https://newfilmemovie.files.wordpress.com/2020/07/clube-de-compras-dallas.mp4:"
-":https://is5com///Video7/v4/e0/5f/4e/e05f4ed4-367a-a705-d116-846d249a98e8/source/":/2/20210204_125645", A TEORIA DE TUDO
-":https://newfilmemovie.files.wordpress.com/2020/07/a-teoria-de-tudo.mp4:"
-":https://is1com///Video1/v4/b4/37/04/b43704dc-1779-2351-30c9-71506c526e83/source/":/2/20210204_125246", BIRDMAN
-":https://newfilmemovie.files.wordpress.com/2020/07/birdman-dublado.mp4:"
-":https://is3com///Video5/v4/7d/13/0f/7d130fc0-1a8f-48df-c991-beeb5a977690/source/":https://tofdata.files.wordpress.com/2021/01/20210113_150701", O ABUTRE
-":https://d347home.files.wordpress.com/2020/07/oabutredub.mp4:"
-":https://is5com///Video1/v4/3a/bd/8a/3abd8a4b-830e-ea34-1a5c-0847f958d072/source/":/2/20210204_125710", O JOGO DA IMITAÇÃO
-":https://infantil10data.files.wordpress.com/2020/07/jogo-da-imitacao-2015.mp4:"
-":https://is2com///Video5/v4/e9/7b/e7/e97be714-07a3-36e2-fb9d-ca0ccee3b540/source/":/22/12-anos", 12 ANOS DE ESCRAVIDÃO
-":https://infantil10data.files.wordpress.com/2020/07/12-anos-de-escravidc3a3o.mp4:"
-":https://is1com///Video49/v4/72/df/32/72df3226-71ea-34cb-cb9a-41ead54d7981/source/httt", UM HOMEM ENTRE GIGANTES
-":https://e99home.files.wordpress.com/2020/06/um-homem-entre-gigantes-2016-5.1-ch-dublado-720p-by-luanharper.mp4:"
-":https://tofdata.files.wordpress.com/2021/01/20210113_150046":https://tofdata.files.wordpress.com/2021/01/20210113_150125", ANOMALISA
-":https://tofdata.files.wordpress.com/2021/01/anomalisa-dublado.mp4:"
-":https://is5com///Video/v4/63/3a/d1/633ad121-c25e-a082-389c-3fe10770d9c9/source/":https://tofdata.files.wordpress.com/2021/01/20210113_150235", A REDE SOCIAL
-":https://k04home.files.wordpress.com/2020/07/a-rede-social.mp4:"
-":/22/forrest":/22/forrest",FORREST GUMP
-":https://filme8movie.files.wordpress.com/2020/09/forrest-gump-dublado.mp4:"
-":https://is2com///Video118/v4/18/ed/a7/18eda728-2097-9e19-d05a-778a0273bcef/source/":/2/20210204_125952", O PODEROSO CHEFÃO 1
-":https://chefaodata.files.wordpress.com/2020/09/o-poderoso-chefao-1.dub_.mp4:"
-":https://is3com///Video118/v4/f6/69/16/f66916c9-29bb-5d3a-21ac-3bc0c4117e19/source/":/2/20210204_125952", O PODEROSO CHEFÃO 2
-":https://chefaodata.files.wordpress.com/2020/10/o-poderoso-chefao-parte-ii-dub.mp4:"
-":https://is2com///Video128/v4/a5/98/ab/a598ab58-2ad1-762c-934a-2dc78077937a/source/":/2/20210204_125952", O PODEROSO CHEFÃO 3
-":https://filme8movie.files.wordpress.com/2020/09/poderoso-chefao-3-dub.mp4:" 
-":https://is5com///Video5/v4/27/35/c2/2735c25e-ca6f-4357-6b04-350a36306f49/source/httt",TITANIC
-":https://69267home.files.wordpress.com/2020/04/titanic.mp4:"
-":/22/truman":/22/truman", O SHOW DE TRUMAN
-":https://acao4data.files.wordpress.com/2020/07/o-show-de-truman-1998-bluray-720p.mp4:"
-":https://is2comv4/81/c5/46/81c546b4-3fc7-aeb2-f8cd-c7071cc3ad4d/source/httt", BRILHO ETERNO DE UMA MENTE SEM LEMBRANÇA
-":https://cloud3lawlaw.files.wordpress.com/2020/04/brilho-eterno-de-uma-mente-sem-lembranc3a7as-2004-720p-bdrip-dublado.mp4:"
-htthttt", O RESGATE DO SOLDADO RYAN
-":https://filmes7movie.files.wordpress.com/2020/09/resgate-do-soldado-ryan-dub.mp4:"
+/3/cabras/cabras-1", CABRAS DA PESTE
+":https://zsjlonline.files.wordpress.com/2021/03/cabras-da-peste.mp4:"
+/22/20210124_135218/principe", UM PRÍNCIPE EM NOVA YORK 1
+":https://fatewinxcode.files.wordpress.com/2021/01/um-principe-em-nova-york-dublado.mp4:"
+/3/20210303_115804/1f89161371677658", UM PRÍNCIPE EM NOVA YORK 2
+":https://top12data.files.wordpress.com/2021/03/um-principe-em-nova-york-2-dub.mp4:"
+/HyoqaRShttt", TUDO BEM NO NATAL QUE VEM
+":https://thechocolate8.files.wordpress.com/2020/12/tudo.bem_.no_.natal_.que_.vem_.2020.mp4:"
+":https://filme4movie.files.wordpress.com/2020/10/borat-28/b2-1", BORAT: FITA DE CINEMA SEGUINTE 
+":https://mansaoblyart.files.wordpress.com/2020/10/boratfitadub.mp4:"
+":https://filme4movie.files.wordpress.com/2020/10/borat-28/b2-1", BORAT: FITA DE CINEMA SEGUINTE (LEG)
+":https://mansaoblyart.files.wordpress.com/2020/10/boratfita-leg.mp4:"
+/2/billted-12/billted-1",BILL E TED: UMA AVENTURA FANTÁSTICA
+":https://5163home.files.wordpress.com/2020/06/bill__ted1.mp4:"
+":https://is5-ssl.6/v4/16/2b/ad/162bad05-7066-8a6d-224a-9da871113e61/source/httt",BILL E TED: DOIS LOUCOS NO TEMPO
+":https://5163home.files.wordpress.com/2020/06/bill_e_ted2.mp4:"
+":https://is2-ssl.114/v4/f3/5e/80/f35e8083-18b5-933a-62fa-6cab52c776a2/source/":https://to4data.files.wordpress.com/2021/01/billted3", BILL E TED 3: ENCARE A MÚSICA 
+":https://to4data.files.wordpress.com/2021/01/bill-e-ted-3-dublado.mp4:"
+/1/jumanji22/j-1", JUMANJI: BEM-VINDO À SELVA
+":https://infantil07art.files.wordpress.com/2020/06/jumanji2018dub-baixo.mp4:"
+/1/jumanji22/j-2",JUMANJI: PRÓXIMA FASE
+":https://u13home.files.wordpress.com/2020/03/jumanji.proxima.fase_.2020.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
+":https://r350home.files.wordpress.com/2020/04/20200414_22514122/jojo", JOJO RABBIT 
+":https://f485home.files.wordpress.com/2020/04/jojo.rabbit.dub_.720p.mp4:"
+/22/zumbilandia2/zumbi-1", ZUMBILÂNDIA
+":https://filme6movie.files.wordpress.com/2020/10/zumbilandia-2009-dub.mp4:"
+-ssl.123/v4/d6/9d/d8/d69dd894-a711-27b1-0845-17b0e7ab6402/source/8/zumbi-2", ZUMBILÂNDIA - ATIRE DUAS VEZES 
+":https://bichocode.files.wordpress.com/2021/01/zumbilandia-2.mp4:"
+/4/tmqm4/tmqm", TODO MUNDO QUASE MORTO
+":https://weim37.files.wordpress.com/2021/05/todo-mundo-quase-morto.mp4:"
+/1/euveh22/euveh", ERA UMA VEZ EM HOLLYWOOD 
+":https://amocinemaclub.files.wordpress.com/2019/11/eraumavezemhollywooddub.mp4:"
+-ssl./v4/7f/ba/ab/7fbaab7c-43df--e590-/source/2/mib1", MIB - HOMENS DE PRETO 1
+":https://mibdata.files.wordpress.com/2020/06/homensdep01dub-baixo.mp4:"
+-ssl./v4/10/33/38/10333827-d6ba-9d39-69e1-4cd503573012/source/2/mib2", MIB - HOMENS DE PRETO 2
+":https://mibdata.files.wordpress.com/2020/06/homensdep02dub-baixo.mp4:"
+":https://is1-ssl./v4/23/15/56/23155688-5607-7be9-db6c-b6c7583efaa8/source/2/mib3", MIB - HOMENS DE PRETO 3
+":https://mibdata.files.wordpress.com/2020/06/homensdep03dub-baixo.mp4:"
+":https://is3-ssl.123/v4/00/b8/47/00b84734-ef16-e219-26b4-f420c6e38007/source/httt", MIB - INTERNACIONAL
+":https://anovosfilmes.files.wordpress.com/2020/01/mibinternational-dub-480p.mp4:"
+/3/20210311_233951/20210311_233619", MR BEAN - O FILME
+":https://sobdbd.files.wordpress.com/2021/03/mr-bean-o-filme-dub.mp4:"
+/3/20210311_234005/20210311_233643", AS FÉRIAS DE MR BEAN
+":https://mymnvsh.files.wordpress.com/2021/03/as-ferias-do-mr-bean-dub.mp4:"
+":https://is1-ssl.113/v4/ff/6f/31/ff6f31b2-3e7e-006c-06eb-c1959ae3edd0/source/httt", CASAL IMPROVÁVEL
+":https://7pluslawlaw.files.wordpress.com/2020/06/casal.improvc3a1vel.2019.dub_.mp4:"
+":https://is2-ssl./v4/68/23/0a/68230a1e-fb1a-e535-a89f-fc31d8cd480d/source/2/3patetas", OS TRÊS PATETAS
+":https://movies02onlinemovie.files.wordpress.com/2020/03/os-trc3aas-patetas.dub_.baixarseriesmp4:".com_.mp4:"
+/4/h4/h", CLUBE DOS CINCO
+":https://9jej.files.wordpress.com/2021/04/clube-dos-5-dublado.mp4:"
+":https://is2-ssl./v4/9f/1a/52/9f1a52b7-6ea8-6c5e-fdf6-7623a0a9f37c/source/2/builler", CURTINDO A VIDA ADOIDADO
+":https://d124home.files.wordpress.com/2020/07/curtindo.a.vida_.adoidado.1986.dub_.avi
+/9/utdp9/1tdp", UM TIRA DA PESADA
+":https://definote3.files.wordpress.com/2021/09/tira-da-pesada-1.mp4:"
+":https://is3-ssl.60/v4/29/ea/43/29ea4368-843e-4342-d61c-8e7f2b94cfcb/source/2/aviao", APERTEM OS CINTOS O PILOTO SUMIU
+":https://d124home.files.wordpress.com/2020/07/apertem-os-cintos-o-piloto-sumiu.avi
+":https://is5-ssl.3/v4/85/77/7d/85777dcb-d6dd-64a2-a964-6701df84c1c5/source/2/corra", CORRA QUE A POLÍCIA VEM AÍ
+":https://d124home.files.wordpress.com/2020/07/corra-que-a-policia-vem-ai-1.mp4:"
+http://is5-ssl.118/v4/4c/a5/48/4ca54846-c568-08dd-4102-416a1cf23782/source/4/auto", O AUTO DA COMPADECIDA
+http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4:"
+":https://is1-ssl./v4/d7/fd/79/d7fd796a-8d41-def9-49dc-c92db755696e/source/4/paul", PAUL: O ALIEN FUGITIVO
+":https://8iogame.files.wordpress.com/2020/04/paul-o-alien-fugitivo-by-jefepsb-wolverdonfilmes.com_.mp4:"
+/4/14/je1", JOHNNY ENGLISH
+":https://ks4ex.files.wordpress.com/2021/04/johnny-english-1-dub.mp4:"
+/4/24/je2",O RETORNO DE JOHNNY ENGLISH
+":https://9jej.files.wordpress.com/2021/04/johnny-english-2-dub.mp4:"
+/4/34/je3",JOHNNY ENGLISH 3.0
+":https://filmes12movie.files.wordpress.com/2020/11/johnny-english-3-dublado.mp4:"
+/4/arthttt", O TERNO DE 2 BILHÕES DE DOLARES
+":https://vebetr.files.wordpress.com/2021/03/terno-de-2-bilhoes-dub.mp4:"
+":https://is2-ssl./v4/ee/43/43/ee4343aa-68de-2632-6297-6f3e78ec491b/source/22/ted-1",TED
+":https://11935home.files.wordpress.com/2020/05/ted-dub.mp4:"
+-ssl.7/v4/61/66/ee/6166ee87-d120-b422-7a05-56d1712b4b66/source/22/ted-2",TED 2
+":https://11935home.files.wordpress.com/2020/05/ted2-dub.mp4:"
+":https://is3-ssl./v4/e5/1d/9d/e51d9db9-022b-244d-f359-552e14ac6241/source/httt",UMA NOITE NO MUSEU
+":https://11935home.files.wordpress.com/2020/05/16120.mp4:"
+":https://i.ytimg.com/vi/mnXsiwWbjPc/maxresdefaulthttt",UM ESPIÃO E MEIO
+":https://top14p.files.wordpress.com/2021/03/um-espiao-e-meio-dub.mp4:"
+-ssl./v4/60/54/c6/6054c6f8-e782-f3aa-6b3d-ed0ad0eccf61/source/2/todo", TODO PODEROSO
+":https://tonenww.files.wordpress.com/2021/04/todo-poderoso-dublado.mp4:"
+":https://r350home.files.wordpress.com/2020/04/20200414_22572622/pixels", PIXELS
+":https://tonenww.files.wordpress.com/2021/04/pixels-dub.mp4:"
+":https://www.rbsdirect.com.br/imagesrc/23172840httt", AS BRANQUELAS
+":https://filme4movie.files.wordpress.com/2020/10/as-branquelas-dublado.mp4:"
+/4/dl24/dl2", DEBI E LÓIDE 2
+":https://top2data.files.wordpress.com/2021/02/debi-e-loide-2-dublado.mp4:"
+/1/mask22/mascara", O MASKARA
+":https://amocinemaclub.files.wordpress.com/2019/12/omaskaradub.mp4:"
+ht22/ventura", ACE VENTURA UM DETETIVE DIFERENTE
+":https://69267home.files.wordpress.com/2020/04/ace-ventura-um-detetive-diferente-1994-dublado-blu-ray-720p.mp4:"
+/4/big4/big", QUERO SER GRANDE
+":https://9jej.files.wordpress.com/2021/04/quero-ser-grande-dublado.mp4:"
