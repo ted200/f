@@ -7,13 +7,13 @@
 01x04
 ":https://omandaloriano.files.wordpress.com/2019/11/04-baixo.mp4:"
 01x05
-":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e05.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
+":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e05.mp4.dub_.baixarseriesmp4.org_.mp4:"
 01x06
-":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e06.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
+":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e06.mp4.dub_.baixarseriesmp4.org_.mp4:"
 01x07
-":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e07.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
+":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e07.mp4.dub_.baixarseriesmp4.org_.mp4:"
 01x08
-":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e08.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
+":https://omandaloriano.files.wordpress.com/2019/12/the.mandalorian.s01e08.mp4.dub_.baixarseriesmp4.org_.mp4:"
 
 02x01
 ":https://mandalorian02data.files.wordpress.com/2020/10/the-mandalorian-s02e01-720p-dub.mp4:"
