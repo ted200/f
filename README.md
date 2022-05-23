@@ -16,23 +16,23 @@
 ":https://infantil06art.files.wordpress.com/2020/05/stranger.things.s01e08.mp4.dub_.baixarseriesmp4.com_.mp4:"
 
 02x01
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e01.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e01.mp4.dub_.mp4:"
 02x02
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e02.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e02.mp4.dub_.mp4:"
 02x03
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e03.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e03.mp4.dub_.mp4:"
 02x04
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e04.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e04.mp4.dub_.mp4:"
 02x05
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e05.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e05.mp4.dub_.mp4:"
 02x06
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e06.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e06.mp4.dub_.mp4:"
 02x07
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e07.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e07.mp4.dub_.mp4:"
 02x08
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e08.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e08.mp4.dub_.mp4:"
 02x09
-":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e09.mp4:".dub_.mp4:"
+":https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s02e09.mp4.dub_.mp4:"
 
 03x01
 ":https://strangerthingss3data.files.wordpress.com/2020/03/stranger.things.s03e01.mp4.dub_.baixarseriesmp4.org_.mp4:"
